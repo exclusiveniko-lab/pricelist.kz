@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Product Catalog",
+  "description": "An interactive and editable product price list for wholesale ordering, featuring an AI-powered order summary generator.",
+  "requestFramePermissions": []
+}
